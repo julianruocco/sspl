@@ -1,6 +1,0 @@
-site/
-__pycache__/
-.DS_Store
-.venv/
-venv/
-*.pyc
